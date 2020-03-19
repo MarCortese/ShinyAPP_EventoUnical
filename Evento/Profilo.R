@@ -9,7 +9,7 @@ library(plotly)
 ui <- fluidPage(
   theme=shinytheme("united"),
              #themeSelector(),
-  navbarPage(title="",
+  navbarPage(title="Evento Unical",
              tabPanel("Studiare Statistica all'UNICAL",
                       #h1("Studiare Statistica all'UNICAL",color="red",align="center"),
                       h1(div("Studiare Statistica all'UNICAL ", style = "color:navy"),align="center"),
