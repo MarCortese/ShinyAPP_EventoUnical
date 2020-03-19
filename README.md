@@ -5,7 +5,7 @@ L'evento aveva l'obbiettivo di mostrare agli studenti le potenzialità che il co
 
 Durante il  mio in tervento ho cercato di far capire agli studenti qualelo che potevano aspettarsi e come tante volte ci lasciamo spaventare da nomi e termini che non conosciamo ma che nascondo dietro tutto ciò che invece è già nelle nostre mani.
 
-![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/Locandina.jpg)
+![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/locandina.jpg)
 
 L'app si divide in:
 
@@ -35,11 +35,11 @@ Quest'ultima tab mostra alcune attività che ho scolto nel primo anno di lavoro 
 
 #### Analisi grafica
 
-![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/Screen/lavoro1.jpg)
+![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/Screen/lavori1.jpg)
 
 #### Analisi testuale
 
-![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/Screen/lavoro2.jpg)
+![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/Screen/lavori2.jpg)
 
 
 
