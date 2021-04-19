@@ -3,7 +3,7 @@
 Questa app, sviluppata in shiny con linguaggio R, è stata creata per un evento svoltosi all'Università della Calabria il 27/05/2019.
 L'evento aveva l'obbiettivo di mostrare agli studenti le potenzialità che il corso di laurea offriva e nell'evento sono state invitate a parlare alcune persone tra cui alcuni ex studenti.
 
-Durante il  mio intervento ho cercato di far capire agli studenti qualelo che potevano aspettarsi e come tante volte ci lasciamo spaventare da nomi e termini che non conosciamo ma che nascondo dietro tutto ciò che invece è già nelle nostre mani.
+Durante il  mio intervento ho cercato di far capire agli studenti quello che potevano aspettarsi e come tante volte ci lasciamo spaventare da nomi e termini che non conosciamo ma che nascondo dietro tutto ciò che invece è già nelle nostre mani.
 
 ![alt text](https://raw.githubusercontent.com/MarCortese/ShinyAPP_EventoUnical/master/Evento/locandina.jpg)
 
